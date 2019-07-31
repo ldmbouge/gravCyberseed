@@ -24,8 +24,6 @@ The prizes break down as follows...
 
 - Competitors must register as a team.
 - Team Size - Minimum: 2 Maximum: 4
-- Teams may not participate in more than one competition.
-- Individual team members may not participate in more than one competition.
 - **Completion of the University of Connecticut Participant Vendor
   Application via PaymentWorks is required to participate in the
   competitions.**
