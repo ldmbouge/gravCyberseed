@@ -105,4 +105,4 @@ form:
 
 # Registration form
 
-Some sample page content
+Fill out the form below making sure to fill out all required fields.  You will receive a confirmation email.  If you have any questions, please contact Jeannette Burke (jeannette.burke@uconn.edu)
