@@ -75,7 +75,13 @@ form:
             autocomplete: 'on'
             type: text
             validate:
-                required: fals4
+                required: false
+        team-member-4-email:
+            label: 'Team Member 4 Email'
+            placeholder: 'Enter team member 4''s email address'
+            type: email
+            validate:
+                required: false
     buttons:
         submit:
             type: submit
@@ -84,7 +90,7 @@ form:
             type: reset
             value: Reset
     process:
-        captcha: true
+        captcha: false
         save:
             fileprefix: contact-
             dateformat: Ymd-His-u
