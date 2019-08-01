@@ -25,26 +25,80 @@ form:
           validate:
             required: true
 
+        faculty-advisor:
+          label: Faculty Advisor
+          placeholder: Enter name of faculty advisor
+          autocomplete: on
+          type: text
+          validate:
+            required: true
 
-
-        email:
-          label: Email
-          placeholder: Enter your email address
+        faculty-advisor-email:
+          label: Faculty Advisor Email
+          placeholder: Enter your faculty advisor's email address
           type: email
           validate:
             required: true
 
-        message:
-          label: Message
-          placeholder: Enter your message
-          type: textarea
+        team-captain:
+          label: Team Captain
+          placeholder: Enter name of team captain
+          autocomplete: on
+          type: text
           validate:
             required: true
 
-        g-recaptcha-response:
-          label: Captcha
-          type: captcha
-          recaptcha_not_validated: 'Captcha not valid!'
+        team-captain-email:
+          label: Team Captain Email
+          placeholder: Enter your team captain's email address
+          type: email
+          validate:
+            required: true
+
+        team-member-2:
+          label: Team Member 2
+          placeholder: Enter name of team member 2
+          autocomplete: on
+          type: text
+          validate:
+            required: true
+
+        team-member-2-email:
+          label: Team Member 2 Email
+          placeholder: Enter team member 2's email address
+          type: email
+          validate:
+            required: true
+
+        team-member-3:
+          label: Team Member 3
+          placeholder: Enter name of team member 3
+          autocomplete: on
+          type: text
+          validate:
+            required: false
+
+        team-member-3-email:
+          label: Team Member 3 Email
+          placeholder: Enter team member 3's email address
+          type: email
+          validate:
+            required: false
+
+        team-member-4:
+          label: Team Member 4
+          placeholder: Enter name of team member 4
+          autocomplete: on
+          type: text
+          validate:
+            required: fals4
+
+        team-member-2-email:
+          label: Team Member 4 Email
+          placeholder: Enter team member 4's email address
+          type: email
+          validate:
+            required: false
 
     buttons:
         submit:
@@ -62,9 +116,9 @@ form:
             extension: txt
             body: "{% include 'forms/data.txt.twig' %}"
         email:
-            subject: "[Site Contact Form] {{ form.value.name|e }}"
+            subject: "[CyberSEED Registration] {{ form.value.team-name|e }}"
             body: "{% include 'forms/data.html.twig' %}"
-        message: Thank you for getting in touch!
+        message: Thank you for registering your team!
         display: thankyou
 ---
 
