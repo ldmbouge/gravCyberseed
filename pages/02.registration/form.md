@@ -90,7 +90,6 @@ form:
             type: reset
             value: Reset
     process:
-        captcha: false
         save:
             fileprefix: contact-
             dateformat: Ymd-His-u
