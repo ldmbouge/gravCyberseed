@@ -1,11 +1,12 @@
 ---
-title: Homepage Highlights
+title: 'Homepage Highlights'
 menu: Highlights
-class: offset-box  
+class: small
 ---
+
 # What is CyberSEED ? 
 ## **Cybersecurity Competitions at the University of Connecticut**
-## **October 19-20, 2019** 
+## **October 19, 2019** 
 
 ![George](/images/Logo2.png?classes=float-right&resize=220)
 Hosted by the Connecticut Cybersecurity Center, CyberSEED brings together top
