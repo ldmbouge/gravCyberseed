@@ -1,5 +1,6 @@
 ---
 title: Info
+image_align: left
 menu: Event
 ---
 
@@ -24,45 +25,10 @@ The prizes break down as follows...
 
 - Competitors must register as a team.
 - Team Size - Minimum: 2 Maximum: 4
-- **Completion of the University of Connecticut Participant Vendor
-  Application via PaymentWorks is required to participate in the
-  competitions.**
-- **PaymentWorks requires direct deposit, if check payment is
-preferred, completion of the University of Connecticut Student Packet
-is required to participate in the competitions.**
-- **A Participant Vendor Application**~~~/Packet~~~ must be submitted for each
-individual team member. 
-- For schools/clubs that will receive both the travel award and
-competition award, please submit a completed **Participant Vendor
-Application**~~/Packet~~ for the school/club. The faculty advisor must
-notify [Jeannette Burke](mailto:jeannette.burke@uconn.edu) that the team
-members will not be receiving any awards to exempt them from the
-Participant Vendor Applicationn requirement. 
-- For schools/clubs that receive the Travel Award only, a completed
-Participant Vendor Application/Packet is required for each team member
-to participate in the competitions. An additional Participant Vendor
-Application/Packet must also be submitted for the school/club
-receiving the travel award. 
-- Unsigned packets are not complete and cannot be processed. Please
-ensure you sign in all applicable areas. Direct deposit is not
-required. You may leave the form blank if you prefer check payment. 
-- Travel Awards & Competition Awards are payable to the school/club or
-each individual team member. Requests for other payment options must
-be made in writing by the faculty advisor to [Jeannette
-Burke](mailto:jeannette.burke@uconn.edu). Requests from the team
-members will not be accepted. 
-- If you are a prior CyberSEED participant and have completed the
-Participant Vendor Application~~/Packet~~ previously, please email
-[Jeannette Burke](mailto:jeannette.burke@uconn.edu) to confirm your current
-address. 
-- **PaymentWorks Process:** you will receive an email invitation from
-PaymentWorks, subject title, University of Connecticut. New Student
-Registration, to register as a University of Connecticut student. 
-- A completed and signed Participant Vendor Application~~/Packet~~ is
-required to receive payment of the Travel Awards and Competition
-Awards. Questions can be directed to [Jeannette
-Burke](mailto:jeannette.burke@uconn.edu). Student Packets can be faxed
-to (860) 486-2447. 
-- **Completion of the CyberSEED** ~~Liability Waiver~~ **is required to 
-participate in the competitions.** The Liability Waiver can be found
-here. Send completed forms to [Jeannette Burke](mailto:jeannette.burke@uconn.edu).
+- Completion of the CyberSEED Liability Waiver is required to participate in the competition. Please email completed forms to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu).
+- Registration in the University of Connecticut HuskyBuy Supplier Portal is required to receive payment of competition awards and travel awards.
+- Competition awards will be paid to each individual team member. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.
+- Travel awards will be paid to the school or club. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.
+- If you are a prior CyberSEED participant and have completed supplier (vendor) setup previously, you must log into HuskyBuy to ensure your mailing address is correct and update as necessary.
+- **HuskyBuy Supplier Portal – Existing Suppliers:** UConn upgraded their supplier (vendor) system to HuskyBuy in July 2018. Existing suppliers received email communication from UConn regarding the transition and how to access supplier accounts. With the system change, all supplier updates must be made by the supplier using the HuskyBuy Supplier Portal. 
+- **HuskyBuy Supplier Portal – New Supplier Registration:** New Suppliers will receive an email invitation from [huskybuyvendor@uconn.edu](mailto:huskybuyvendor@uconn.edu) titled “Supplier Invitation for University of Connecticut”. Follow the link in the email to the HuskyBuy Supplier Portal via the *Register Now* button. As a first time supplier you will be asked to create a new account. Click the *Continue with Registration* button to continue. After successful submission of your application you will receive confirmation of registration.
