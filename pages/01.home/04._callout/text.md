@@ -1,18 +1,13 @@
 ---
-title: Homepage Text Callout
+title: 'Homepage Text Callout'
+image_align: left
 menu: Organization
 ---
 
-# Organizers
+## Organizers
 
 ![UCONN](/images/uconn-logo.png?classes=resize=400)
 ![UCONN](/images/syf-logo2.png?classes=resize=400)
-
-## Sponsors
-
-&nbsp;
-
-## Partners
 
 ## Venue
 
@@ -35,10 +30,11 @@ toward Tolland/Mansfield. Turn right onto CT-195S/Merrow Rd. Follow
 for 7 miles. Turn right onto Bolton Road. The Rome Commons Ballroom is
 on the right.
 
-# History & Facts
+## History & Facts
 
 ![Video](/images/What-is-cyberseed2.mov?loop=1&controls=1&autoplay=0)
 
+- **October 2017** - UCONN Hosts [CyberSEED'17](https://csi.uconn.edu/cybersecurity-week/)
 - **October 2016** - UCONN Hosts CyberSEED'16
 - **October 2015** - UCONN Hosts CyberSEED'15
 - **February 24, 2015** - The chief cybersecurity adviser for the National
