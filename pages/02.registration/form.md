@@ -30,16 +30,16 @@ form:
             type: email
             validate:
                 required: true
-        team-captain:
-            label: 'Team Captain'
-            placeholder: 'Enter name of team captain'
+        team-member-1:
+            label: 'Team Member 1'
+            placeholder: 'Enter name of team member 1'
             autocomplete: 'on'
             type: text
             validate:
                 required: true
-        team-captain-email:
-            label: 'Team Captain Email'
-            placeholder: 'Enter your team captain''s email address'
+        team-member-1-email:
+            label: 'Team Member 1 Email'
+            placeholder: 'Enter team member 1''s email address'
             type: email
             validate:
                 required: true
@@ -82,6 +82,12 @@ form:
             type: email
             validate:
                 required: false
+        code-of-conduct:
+            label: 'Code of conduct form'
+            placeholder: 'Acknowledge that you have read and will comply with the UConn student code of conduct guidelines'
+            type: checkbox
+            validate:
+                required: rue
     buttons:
         submit:
             type: submit
@@ -91,12 +97,17 @@ form:
             value: Reset
     process:
         save:
-            fileprefix: contact-
+            fileprefix: registration-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
         email:
             subject: '[CyberSEED Registration] {{ form.value.team-name|e }}'
+            to: '{{ form.value.faculty-advisor-email }}'
+            cc:
+                - '{{ form.value.team-member-1-email }}'
+                - '{{ form.value.team-member-2-email }}'
+            bcc: '{{ config.plugins.email.to }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Thank you for registering your team!'
         display: thankyou
@@ -104,4 +115,4 @@ form:
 
 # Registration form
 
-Fill out the form below making sure to fill out all required fields.  You will receive a confirmation email.  If you have any questions, please contact Jeannette Burke (jeannette.burke@uconn.edu)
+Fill out the form below making sure to fill out all required fields.  You will receive a confirmation email after submission.  Read and review the [UConn Student Code of Conduct](/images/UConn%20Student%20Code%20of%20Conduct-The-Student-Code.pdf).  Each team member will also need to email the [Liability Waiver form](/images/CyberSEED%202019%20Liability%20Waiver%20-%20fillable.pdf) to [engr-cyberseed@uconn.edu](engr-cyberseed@uconn.edu)
