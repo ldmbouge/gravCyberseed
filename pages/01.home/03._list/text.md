@@ -6,6 +6,8 @@ menu: Event
 
 ## Registration
 
+[![](/images/register.png)](/registration)
+
 ## Speakers
 
 ![George](/images/george.jpg?classes=float-right&resize=400)
@@ -25,7 +27,7 @@ The prizes break down as follows...
 
 - Competitors must register as a team.
 - Team Size - Minimum: 2 Maximum: 4
-- Completion of the CyberSEED Liability Waiver is required to participate in the competition. Please email completed forms to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu).
+- Completion of the [CyberSEED Liability Waiver](/images/CyberSEED%202019%20Liability%20Waiver%20-%20fillable.pdf) is required to participate in the competition. Please email completed forms to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu).
 - Registration in the University of Connecticut HuskyBuy Supplier Portal is required to receive payment of competition awards and travel awards.
 - Competition awards will be paid to each individual team member. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.
 - Travel awards will be paid to the school or club. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.
