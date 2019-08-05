@@ -34,7 +34,7 @@ on the right.
 
 ![Video](/images/What-is-cyberseed2.mov?loop=1&controls=1&autoplay=0)
 
-- **October 2017** - UCONN Hosts [CyberSEED'17](https://csi.uconn.edu/cybersecurity-week/)
+- **October 2017** - UCONN Hosts [CyberSEED'17](https://csi.uconn.edu/cybersecurity-week-2017/)
 - **October 2016** - UCONN Hosts CyberSEED'16
 - **October 2015** - UCONN Hosts CyberSEED'15
 - **February 24, 2015** - The chief cybersecurity adviser for the National
