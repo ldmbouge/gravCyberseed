@@ -10,8 +10,8 @@ form:
             type: text
             validate:
                 required: true
-        team-name:
-            label: Team-Name
+        team_name:
+            label: 'Team Name'
             placeholder: 'Enter your team name'
             autocomplete: 'on'
             type: text
@@ -24,8 +24,8 @@ form:
             type: text
             validate:
                 required: true
-        faculty-advisor-email:
-            label: Faculty-Advisor-Email
+        faculty_advisor_email:
+            label: 'Faculty Advisor Email'
             placeholder: 'Enter your faculty advisor''s email address'
             type: email
             validate:
@@ -101,8 +101,8 @@ form:
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
         email:
-            subject: '[CyberSEED Registration] {{ form.value.team-name|e }}'
-            to: '{{ form.value.faculty-advisor-email }}'
+            subject: '[CyberSEED Registration] {{ form.value.team_name|e }}'
+            to: '{{ form.value.faculty_advisor_email }}'
             bcc: '{{ config.plugins.email.to }}'
             body: '{% include ''forms/data.html.twig'' %}'
         message: 'Thank you for registering your team!'
