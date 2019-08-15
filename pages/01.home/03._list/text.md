@@ -16,7 +16,7 @@ Financial....
 
 ## Competition
 
-The Capture the Flag Competition will touch on a variety of cybersecurity challenges including a set of flags focusing on reverse engineering, web application security, network traffic analysis, cryptography, amonst others.  The competition will require breadth of skills including some basic scripted programming capabilities as well as a facility with network monitoring and forensics tools.
+The Capture the Flag Competition will touch on a variety of cybersecurity challenges including a set of flags focusing on reverse engineering, web application security, network traffic analysis, cryptography, amongst others.  The competition will require breadth of skills including some basic scripted programming capabilities as well as a facility with network monitoring and forensics tools.
 
 ### Student Requirements:
 Students should be prepared with laptops. The ability to execute code in a Linux environment (physical or virtual) will be helpful but not required.
