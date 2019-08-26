@@ -12,7 +12,7 @@ menu: Event
 
 ![George](/images/george.jpg?classes=float-right&resize=400)
 George Smirnoff is Security Chief Information Officer for Synchrony
-Financial....
+Financial amnd runs [InfoSEC](https://www.linkedin.com/in/georgesmirnoff/). 
 
 ## Competition
 
