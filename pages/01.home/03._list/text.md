@@ -22,7 +22,7 @@ Students should be prepared with laptops. The ability to execute code in a Linux
 
 ### Prizes
 
-![Prizes](/images/prizes2.png?classes=float-right&resize=400)
+![Prizes](/images/prizes2.png?classes=float-right&resize=300)
 The prizes break down as follows:
 
 - First place: $15,000
