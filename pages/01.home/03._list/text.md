@@ -37,15 +37,15 @@ document. The highlights are as follows:
 
 | Time&nbsp;&nbsp;&nbsp; | Event                                                   |
 |:----------------------:|---------------------------------------------------------|
-| 8-9:00AM               | Breakfast and Registration                              |
-| 9-9:30AM               | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
-| 9:30AM                 | Competition commences                                   |
-| 10:30AM                | Coffee break                                            |
-| 12-2PM                 | Lunch                                                   |
-| 3:30PM                 | Coffee Break                                            |
-| 5PM                    | Close of competition                                    |
-| 5:5:30PM               | Scoring break                                           |
-| 5:30PM                 | Awards and closing                                      |
+| 8:00 AM - 9:00 AM      | Breakfast and Registration                              |
+| 9:00 AM - 9:30 AM      | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
+| 9:30 AM                | Competition commences                                   |
+| 10:30 AM               | Coffee break                                            |
+| 12:00 PM - 2:00 PM     | Lunch                                                   |
+| 3:30 PM                | Coffee Break                                            |
+| 5:00 PM                | Close of competition                                    |
+| 5:00 PM : 5:30 PM      | Scoring break                                           |
+| 5:30 PM                | Awards and closing                                      |
 
 
 
