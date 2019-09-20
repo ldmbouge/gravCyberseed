@@ -33,7 +33,7 @@ The prizes break down as follows:
 
 | Time     | Event                                                   |
 |----------|---------------------------------------------------------|
-| 8-9AM    | Breakfast and Registration                              |
+| 8-9:00AM | Breakfast and Registration                              |
 | 9-9:30AM | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
 | 9:30AM   | Competition commences                                   |
 | 10:30AM  | Coffee break                                            |
