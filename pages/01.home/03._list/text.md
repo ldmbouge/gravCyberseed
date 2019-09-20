@@ -29,6 +29,10 @@ The prizes break down as follows:
 - Second place: $2,000
 - Third place: $500
 
+### Agenda
+
+[CyberSEED Agenda](CyberSEEDAgenda.pdf)
+
 ### FAQ
 
 - Competitors must register as a team.
