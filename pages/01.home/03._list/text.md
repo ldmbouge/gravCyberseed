@@ -34,6 +34,16 @@ The prizes break down as follows:
 The [CyberSEED Agenda](CyberSEEDAgenda.pdf) is available as a PDF
 document. The highlights are as follows:
 
+bbb
+bb
+bb
+
+bb
+
+bb
+
+bb
+
 
 | Time&nbsp;&nbsp;&nbsp; | Event                                                   |
 |:----------------------:|---------------------------------------------------------|
@@ -46,8 +56,6 @@ document. The highlights are as follows:
 | 5:00 PM                | Close of competition                                    |
 | 5:00 PM : 5:30 PM      | Scoring break                                           |
 | 5:30 PM                | Awards and closing                                      |
-
-
 
 ### FAQ
 
