@@ -18,7 +18,7 @@ George Smirnoff is Security Chief Information Officer for Synchrony and runs the
 The Capture the Flag Competition will touch on a variety of cybersecurity challenges including a set of flags focusing on reverse engineering, web application security, network traffic analysis, cryptography, amongst others.  The competition will require breadth of skills including some basic scripted programming capabilities as well as a facility with network monitoring and forensics tools.
 
 Competition platform provided by Cyber Skyline
-[CyberSkyline](cyberSkyline.png?classes=float-right&resize=300)
+![CyberSkyline](cyberSkyline.png?classes=float-right&resize=100)
 
 ### Student Requirements:
 Students should be prepared with laptops. The ability to execute code in a Linux environment (physical or virtual) will be helpful but not required.
