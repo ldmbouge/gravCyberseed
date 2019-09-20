@@ -78,7 +78,7 @@ document. The highlights are as follows:
 ! Registration in the University of Connecticut HuskyBuy Supplier
 ! Portal is required to receive payment of competition awards and travel
 ! awards. 
-- How are the travel awards paid out >?
+- How are the travel awards paid out ?
 ! Competition awards will be paid to each individual team
 ! member. Requests for other payment options must be made in writing by
 ! the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests
