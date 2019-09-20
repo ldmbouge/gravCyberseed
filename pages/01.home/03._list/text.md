@@ -6,7 +6,22 @@ menu: Event
 
 ## Registration
 
+**Deadline**: ~~~September 22, 2019~~~  /Extended to/  September 29, 2019.
+
 [![](/images/register.png)](/registration)
+
+Each team accepted into the competition will be granted a
+travel award to help cover travel expenses. The award is a fixed
+amount dependent on the location of the team. For teams in CT, MA and
+RI, an award of $250 per team. For teams in NH, ME, VT, NY, NJ, DE,
+MD, DC and Eastern PA, an award of $750 per team. For teams in Western
+PA and all other states, an award of $1,250. Teams will make their own
+travel arrangements and the travel award will be dispersed after the
+close of the competition.  Travel awards will be paid to the school or
+club. Requests for other payment options must be made in writing by
+the faculty advisor to
+[engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests
+from team members will not be accepted.
 
 ## Speakers
 
