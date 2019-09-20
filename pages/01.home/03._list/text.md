@@ -34,19 +34,10 @@ The prizes break down as follows:
 The [CyberSEED Agenda](CyberSEEDAgenda.pdf) is available as a PDF
 document. The highlights are as follows:
 
-bbb
-bb
-bb
-
-bb
-
-bb
-
-bb
-
+<div style="height:100px;"/>
 
 | Time&nbsp;&nbsp;&nbsp; | Event                                                   |
-|:----------------------:|---------------------------------------------------------|
+|:-----------------------|---------------------------------------------------------|
 | 8:00 AM - 9:00 AM      | Breakfast and Registration                              |
 | 9:00 AM - 9:30 AM      | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
 | 9:30 AM                | Competition commences                                   |
