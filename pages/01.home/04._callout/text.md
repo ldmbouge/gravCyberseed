@@ -7,7 +7,7 @@ menu: Organization
 ## Organizers
 
 ![UCONN](/images/uconn-logo.png?classes=resize=400)
-![UCONN](/images/syf-logo2.png?classes=resize=300)
+![UCONN](/images/syf-logo2.png?classes=resize=200)
 
 ## Venue
 
