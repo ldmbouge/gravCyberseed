@@ -66,10 +66,18 @@ document. The highlights are as follows:
 
 ### FAQ
 
-- Competitors must register as a team.
-- Team Size - Minimum: 2 Maximum: 4
-- **Completion of the [CyberSEED Liability Waiver](/images/CyberSEED%202019%20Liability%20Waiver%20-%20fillable.pdf)** is required to participate in the competition. Please email completed forms to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu).
-- Registration in the University of Connecticut HuskyBuy Supplier Portal is required to receive payment of competition awards and travel awards.
+- How can participants register ? 
+! Competitors must register as a team.
+- How large (or small) can teams be ?
+! Team Size - Minimum: 2 Maximum: 4
+- Are there any legal documentation to take care off ?
+! **Completion of the [CyberSEED Liability Waiver](/images/CyberSEED%202019%20Liability%20Waiver%20-%20fillable.pdf)**
+! is required to participate in the competition. Please email completed
+! forms to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). 
+- How do we go about receiving travel awards ?
+! Registration in the University of Connecticut HuskyBuy Supplier
+! Portal is required to receive payment of competition awards and travel
+! awards. 
 - Competition awards will be paid to each individual team member. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.
 - Each team that is accepted into the competition will be granted a travel award to help cover travel expenses. The award is a fixed amount dependent on the location of the team. For teams in CT, MA and RI, an award of $250 per team. For teams in NH, ME, VT, NY, NJ, DE, MD, DC and Eastern PA, an award of $750 per team. For teams in Western PA and all other states, an award of $1,250. Teams will make their own travel arrangements and the travel award will be dispersed after the close of the competition.  Travel awards will be paid to the school or club. Requests for other payment options must be made in writing by the faculty advisor to [engr-cyberseed@uconn.edu](mailto:engr-cyberseed@uconn.edu). Requests from team members will not be accepted.  
 - If you are a prior CyberSEED participant and have completed supplier (vendor) setup previously, you must log into HuskyBuy to ensure your mailing address is correct and update as necessary.
