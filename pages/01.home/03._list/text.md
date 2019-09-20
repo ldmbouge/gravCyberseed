@@ -34,19 +34,17 @@ The prizes break down as follows:
 The [CyberSEED Agenda](CyberSEEDAgenda.pdf) is available as a PDF
 document. The highlights are as follows:
 
-<div style="height:100px;"/>
-
-| Time&nbsp;&nbsp;&nbsp; | Event                                                   |
-|:-----------------------|---------------------------------------------------------|
-| 8:00 AM - 9:00 AM      | Breakfast and Registration                              |
-| 9:00 AM - 9:30 AM      | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
-| 9:30 AM                | Competition commences                                   |
-| 10:30 AM               | Coffee break                                            |
-| 12:00 PM - 2:00 PM     | Lunch                                                   |
-| 3:30 PM                | Coffee Break                                            |
-| 5:00 PM                | Close of competition                                    |
-| 5:00 PM : 5:30 PM      | Scoring break                                           |
-| 5:30 PM                | Awards and closing                                      |
+| Time               | Event                                                   |
+|:-------------------|---------------------------------------------------------|
+| 8:00 AM - 9:00 AM  | Breakfast and Registration                              |
+| 9:00 AM - 9:30 AM  | Opening Remarks and Kickoff. George Smirnoff, Synchrony |
+| 9:30 AM            | Competition commences                                   |
+| 10:30 AM           | Coffee break                                            |
+| 12:00 PM - 2:00 PM | Lunch                                                   |
+| 3:30 PM            | Coffee Break                                            |
+| 5:00 PM            | Close of competition                                    |
+| 5:00 PM : 5:30 PM  | Scoring break                                           |
+| 5:30 PM            | Awards and closing                                      |
 
 ### FAQ
 
