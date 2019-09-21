@@ -1,10 +1,10 @@
 ---
 title: FAQ
 image_align: left
-menu: Event
+menu: FAQ
 ---
 
-### FAQ
+## FAQ
 
 - How can participants register ? 
 ! Competitors must register as a team.
