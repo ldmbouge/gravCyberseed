@@ -47,6 +47,9 @@ The prizes break down as follows:
 - Second place: $2,000
 - Third place: $500
 
+!!! Note that UCONN and SYF employees participating in the competition
+are _not_ eligible for the grand prize of $15,000. 
+
 ### Agenda
 
 The [CyberSEED Agenda](CyberSEEDAgenda.pdf) is available as a PDF
