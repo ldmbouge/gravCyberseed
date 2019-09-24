@@ -1,5 +1,5 @@
 ---
-title: 'Registration submitted 2'
+title: 'Registration submitted'
 cache_enable: false
 process:
     twig: true
