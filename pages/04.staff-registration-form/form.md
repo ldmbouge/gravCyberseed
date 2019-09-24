@@ -88,10 +88,9 @@ form:
             body: '{% include ''forms/data.txt.twig'' %}'
         email:
             subject: '[CyberSEED Registration] {{ form.value.college|e }} {{ form.value.team_name|e }}'
-            to: '{{ form.value.faculty_advisor_email }}'
+            to: '{{ form.value.team_member_1_email }}'
             cc:
                 - '{{ config.plugins.email.to }}'
-                - '{{ form.value.team_member_1_email }}'
                 - '{{ form.value.team_member_2_email }}'
             body: 'Thank you for registering your team! {% include ''forms/data.html.twig'' %}'
         message: 'Thank you for registering your team!'
