@@ -18,19 +18,6 @@ form:
             type: text
             validate:
                 required: true
-        faculty-advisor:
-            label: 'Faculty Advisor'
-            placeholder: 'Enter name of faculty advisor'
-            autocomplete: 'on'
-            type: text
-            validate:
-                required: true
-        faculty_advisor_email:
-            label: 'Faculty Advisor Email'
-            placeholder: 'Enter your faculty advisor''s email address'
-            type: email
-            validate:
-                required: true
         team-member-1:
             label: 'Team Member 1'
             placeholder: 'Enter name of team member 1'
@@ -83,11 +70,6 @@ form:
             type: email
             validate:
                 required: false
-        code-of-conduct:
-            label: 'I have read and will comply with the UConn student code of conduct guidelines'
-            type: checkbox
-            validate:
-                required: true
     buttons:
         submit:
             type: submit
