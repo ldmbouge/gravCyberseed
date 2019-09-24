@@ -9,3 +9,4 @@ Fill out [this form](/student-registration-form) and make sure to fill out all r
 
 ## UCONN and Synchrony staff
 
+Fill out [this form](/staff-registration-form) and make sure to fill out all required fields.
