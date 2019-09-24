@@ -4,13 +4,16 @@ visible: false
 form:
     name: contact
     fields:
-        college:
-            label: College
-            placeholder: 'Enter your college/university'
-            autocomplete: 'on'
-            type: text
+        organization:
+            type: toggle
+            label: Organization
+            highlight: 1
+            default: 1
+            options:
+                1: Synchrony
+                0: UCONN
             validate:
-                required: true
+                type: bool
         team_name:
             label: 'Team Name'
             placeholder: 'Enter your team name'
