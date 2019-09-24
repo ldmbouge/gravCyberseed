@@ -94,6 +94,6 @@ form:
                 - '{{ form.value.team_member_2_email }}'
             body: 'Thank you for registering your team! {% include ''forms/data.html.twig'' %}'
         message: 'Thank you for registering your team!'
-        display: registration/thankyou
+        display: thankyou
 ---
 
