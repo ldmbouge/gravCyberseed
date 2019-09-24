@@ -1,5 +1,5 @@
 ---
-title: 'Student-Registration 2'
+title: Staff-Registration
 visible: false
 form:
     name: contact
