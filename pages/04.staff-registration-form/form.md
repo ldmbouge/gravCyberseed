@@ -82,7 +82,7 @@ form:
             value: Reset
     process:
         save:
-            fileprefix: registration-
+            fileprefix: staff-registration-
             dateformat: Ymd-His-u
             extension: txt
             body: '{% include ''forms/data.txt.twig'' %}'
