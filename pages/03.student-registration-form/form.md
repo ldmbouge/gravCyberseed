@@ -1,5 +1,5 @@
 ---
-title: 'Student Registration'
+title: Student-Registration
 form:
     name: contact
     fields:
