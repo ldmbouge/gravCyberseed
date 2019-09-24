@@ -5,15 +5,12 @@ form:
     name: contact-staff
     fields:
         organization:
-            type: toggle
             label: Organization
-            highlight: 1
-            default: 1
-            options:
-                1: Synchrony
-                0: UCONN
+            placeholder: 'Enter your organization''s name'
+            autocomplete: 'on'
+            type: text
             validate:
-                type: bool
+                required: true
         team_name:
             label: 'Team Name'
             placeholder: 'Enter your team name'
