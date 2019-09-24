@@ -1,6 +1,7 @@
 ---
 title: Student-Registration
-routable: false
+routable: true
+visible: false
 form:
     name: contact
     fields:
