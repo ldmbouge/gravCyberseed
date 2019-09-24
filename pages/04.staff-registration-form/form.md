@@ -2,7 +2,7 @@
 title: Staff-Registration
 visible: false
 form:
-    name: contact
+    name: contact-staff
     fields:
         organization:
             type: toggle
