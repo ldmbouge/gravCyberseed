@@ -4,6 +4,16 @@ visible: false
 form:
     name: contact-staff
     fields:
+        participation:
+            type: toggle
+            label: 'Participation level'
+            highlight: 1
+            default: 1
+            options:
+                1: Attendance
+                0: Competition
+            validate:
+                type: bool
         organization:
             label: Organization
             placeholder: 'Enter your organization''s name'
