@@ -6,7 +6,7 @@ menu: Event
 
 ## Registration
 
-**Deadline**: ~~September 22, 2019~~  _Extended to_  September 29, 2019.
+**Deadline**: ~~September 22, 2019~~  _Extended to_  October 4, 2019.
 
 [![](/images/register.png)](/registration)
 
