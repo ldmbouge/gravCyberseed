@@ -26,7 +26,7 @@ from team members will not be accepted.
 ## Speakers
 
 ![George](/images/george.jpg?classes=float-right&resize=400)
-George Smirnoff is Security Chief Information Officer for Synchrony and runs the [Information Security](https://www.linkedin.com/in/georgesmirnoff/) group. 
+George Smirnoff is  Chief Information Security Officer for Synchrony and runs the [Information Security](https://www.linkedin.com/in/georgesmirnoff/) group. 
 
 ## Competition
 
