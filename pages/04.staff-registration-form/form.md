@@ -10,7 +10,7 @@ form:
             highlight: 1
             default: 1
             options:
-                1: Attendance
+                1: Workshop
                 0: Competition
             validate:
                 type: bool
