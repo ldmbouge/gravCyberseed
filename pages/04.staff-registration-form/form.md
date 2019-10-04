@@ -21,13 +21,6 @@ form:
             type: text
             validate:
                 required: true
-        team_name:
-            label: 'Team Name'
-            placeholder: 'Enter your team name'
-            autocomplete: 'on'
-            type: text
-            validate:
-                required: true
         team-member-1:
             label: 'Team Member 1'
             placeholder: 'Enter name of team member 1'
@@ -41,19 +34,26 @@ form:
             type: email
             validate:
                 required: true
+        team_name:
+            label: 'Team Name'
+            placeholder: 'Enter your team name'
+            autocomplete: 'on'
+            type: text
+            validate:
+                required: true
         team-member-2:
             label: 'Team Member 2'
             placeholder: 'Enter name of team member 2'
             autocomplete: 'on'
             type: text
             validate:
-                required: true
+                required: false
         team_member_2_email:
             label: 'Team Member 2 Email'
             placeholder: 'Enter team member 2''s email address'
             type: email
             validate:
-                required: true
+                required: false
         team-member-3:
             label: 'Team Member 3'
             placeholder: 'Enter name of team member 3'
