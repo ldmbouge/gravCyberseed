@@ -51,7 +51,7 @@ form:
         team_member_2_email:
             label: 'Team Member 2 Email'
             placeholder: 'Enter team member 2''s email address'
-            type: email
+            type: text
             validate:
                 required: false
         team-member-3:
@@ -64,7 +64,7 @@ form:
         team-member-3-email:
             label: 'Team Member 3 Email'
             placeholder: 'Enter team member 3''s email address'
-            type: email
+            type: text
             validate:
                 required: false
         team-member-4:
@@ -77,7 +77,7 @@ form:
         team-member-4-email:
             label: 'Team Member 4 Email'
             placeholder: 'Enter team member 4''s email address'
-            type: email
+            type: text
             validate:
                 required: false
     buttons:
